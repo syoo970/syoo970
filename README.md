@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syoo970)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 프론트 엔드 개발자를 꿈꾸고 있습니다
-- 🌱 현재 js, react를 공부중입니다! 모두 화이팅
+- 🔭 프론트 엔드 개발자를 꿈꾸고 있는 유승범이라고 합니다
+- 🌱 현재 프로그래머스 데브코스에서 vanilla js를 학습 중입니다!
 
 <!--
 **syoo970/syoo970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
