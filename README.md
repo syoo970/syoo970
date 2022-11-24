@@ -4,6 +4,9 @@
 - 🔭 프론트 엔드 개발자 유승범이라고 합니다
 - 🌱 현재 SMR에서 프론트엔드 개발자로 근무하고 있습니다(0년차)
 
+### 🤔 CONTACT
+- email: syu9710@gmail.com
+
 <!--
 **syoo970/syoo970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
