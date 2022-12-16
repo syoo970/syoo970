@@ -2,7 +2,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syoo970)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 프론트 엔드 개발자 유승범이라고 합니다
-- 🌱 현재 SMR에서 프론트엔드 개발자로 근무하고 있습니다(0년차)
+- 주로 react를 사용하며, 최근에는 next.js에 관심을 가지고 
 
 ### 🤔 CONTACT
 - email: syu9710@gmail.com
